@@ -1,6 +1,10 @@
 # PICO-8-Sum10-Puzzle-
 Sum10 Puzzle for PICO-8
 
+@@@ вы можете скачать html версию и запустить игру у себя в браузере @@@
+
+@@@ you can download the html version and run the game in your browser @@@
+
 Overview
 
 "Sum10 Puzzle" is a logic-based puzzle game developed for the PICO-8 fantasy console. Your objective is to find pairs of numbers on the grid whose sum equals 10. Successfully pairing numbers clears them from the board and earns points. The game ends when the 2-minute timer runs out.
