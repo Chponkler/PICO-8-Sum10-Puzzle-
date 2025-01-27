@@ -42,7 +42,6 @@ Credits
 Developer: [Chpoker]
 
 Platform: PICO-8 Fantasy Console
-Developer: [Your Name]
 
 Platform: PICO-8 Fantasy Console
 
