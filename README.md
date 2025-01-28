@@ -1,9 +1,9 @@
 # PICO-8-Sum10-Puzzle-
 Sum10 Puzzle for PICO-8
 
-@@@ вы можете скачать html версию и запустить игру у себя в браузере @@@
+@@@ вы можете скачать html версию и numbers.js и запустить игру у себя в браузере @@@
 
-@@@ you can download the html version and run the game in your browser @@@
+@@@ you can download the html and numbers.js version and run the game in your browser @@@
 
 Overview
 
